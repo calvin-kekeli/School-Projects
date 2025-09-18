@@ -28,4 +28,5 @@ int main() { //declaration of values
     std::cout << std::fixed << std::setprecision(2) << "Division: " << division <<  std::endl;
 
     return 0;
+
 }
